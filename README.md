@@ -56,7 +56,7 @@ To run the implementations across all tasks, clone this repository and install t
 
 ```bash
 # Clone the repository
-gh repo clone Dexter0013/AI-Project-Tasks
+git clone https://github.com/Dexter0013/AI-Project-Tasks.git
 cd AI-Project-Tasks
 
 # Install required dependencies
