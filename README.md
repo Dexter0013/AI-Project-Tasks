@@ -56,8 +56,8 @@ To run the implementations across all tasks, clone this repository and install t
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+gh repo clone Dexter0013/AI-Project-Tasks
+cd AI-Project-Tasks
 
 # Install required dependencies
 pip install tensorflow torch transformers diffusers matplotlib numpy pillow datasets pydot graphviz
