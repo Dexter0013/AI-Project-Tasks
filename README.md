@@ -1,5 +1,5 @@
-# Prodigy-Infotech-Internship-Generative-AI-GA
-
+# Generative-AI-GA Projects
+ 
 Welcome to the central repository containing hands-on implementations across **Natural Language Processing (NLP)**, **Generative AI**, **Computer Vision**, and **Neural Style Transfer**.
 
 ---
